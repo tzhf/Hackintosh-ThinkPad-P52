@@ -15,5 +15,7 @@ On Windows/Linux all you need is downloading Ventura using `macrecovery.py`, mak
 - ❌ External HDMI display: the HDMI output is probably physically linked to the Nvidia P1000 (which is not compatible with MacOS).
 - ❌ USB-C/Thunderbolt: with Thunderbolt enabled, the system restarts few seconds after disconnecting a USB-C cable, so i had to disable Thunderbolt in BIOS.
 - ❌ SD Card Reader (haven't investigated any further)
+- ❌ Trackpoint (i never used it)
+- ❌ Fingerprint reader (i also don't care)
 
 Note: All Kexts are in DEBUG mode, if everything's ok make sure to replace them with their RELEASE packages
